@@ -549,7 +549,7 @@ button.swiper-pagination-bullet { border: none; margin: 0; padding: 0; -webkit-b
 
 .get-list__item { padding: 3.6rem 2.6rem 3.5rem; margin: 0 1.5rem 3rem; width: calc(33.33% - 3rem); background: #fff; -webkit-box-shadow: 0px 1rem 2.6rem rgba(36, 73, 168, 0.15); box-shadow: 0px 1rem 2.6rem rgba(36, 73, 168, 0.15); overflow: hidden; -webkit-border-radius: 1rem; border-radius: 1rem; position: relative; }
 
-.get-list__item:before { content: ''; width: 20.5rem; height: 20.5rem; border: 5rem solid rgba(219, 223, 243, 0.3); background: #fff; -webkit-border-radius: 50%; border-radius: 50%; position: absolute; left: 0; top: 0; -webkit-transform: translate(-36%, -36%); -ms-transform: translate(-36%, -36%); transform: translate(-36%, -36%); z-index: 0; }
+/* .get-list__item:before { content: ''; width: 20.5rem; height: 20.5rem; border: 5rem solid rgba(219, 223, 243, 0.3); background: #fff; -webkit-border-radius: 50%; border-radius: 50%; position: absolute; left: 0; top: 0; -webkit-transform: translate(-36%, -36%); -ms-transform: translate(-36%, -36%); transform: translate(-36%, -36%); z-index: 0; } */
 
 .get-list__item:nth-child(3n-1) { -webkit-transform: translateY(4.1rem); -ms-transform: translateY(4.1rem); transform: translateY(4.1rem); }
 

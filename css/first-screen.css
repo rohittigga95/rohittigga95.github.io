@@ -580,7 +580,7 @@ body:not(.loaded) .leaf-right-decor { background: url(../img/bg/leaf-right.svg) 
 
 .first-screen { padding-top: 16rem; }
 
-.section-screen-main { background: url(../img/main-bg.svg) 50% 0 no-repeat; -webkit-background-size: auto 100%; background-size: auto 100%; position: relative; }
+.section-screen-main { background: url(../img/main-bg.png) 50% 0 no-repeat; -webkit-background-size: auto 100%; background-size: auto 100%; position: relative; }
 
 .section-screen-main__bg { position: absolute; z-index: 0; left: 0; top: 0; right: 0; bottom: -14%; -webkit-background-size: cover; background-size: cover; background-position: 50% 0; }
 
