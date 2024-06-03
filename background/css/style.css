@@ -759,6 +759,9 @@ button.swiper-pagination-bullet { border: none; margin: 0; padding: 0; -webkit-b
   .prices__cost-val { font-size: 6rem; } }
 
 @media screen and (max-width: 767px) { .section-about { margin-top: 5rem; }
+  .get-list__icon { height: .1rem; margin-top: -6rem;}
+  .get-list__title { font-size: 1rem; margin-top: -3rem;}
+  .get-list__text { font-size: 1rem;}
   .about-details__item { width: 50%; }
   .about-details__val { font-size: 4.3rem; }
   .about-details__val_plus { font-size: 2.5rem; }
@@ -768,11 +771,12 @@ button.swiper-pagination-bullet { border: none; margin: 0; padding: 0; -webkit-b
   .section-consultation { padding-top: 12rem; }
   .logos__item { margin: 0 1.5rem 3rem; width: calc(33.33% - 3rem); }
   .section-steps { margin-top: 6.2rem; }
-  .steps-text { font-size: 1.3rem; }
-  .steps__item { width: 50%; margin-bottom: 4rem; }
-  .steps__count { font-size: 12rem; }
+  .steps-text { font-size: 1rem; }
+  .steps__item { width: 50%; margin-bottom: 2rem; }
+  .steps__icon { height: 4rem; }
+  .steps__count { font-size: 5rem; }
   .section-prices { margin-top: 6.9rem; }
-  .steps { margin-top: 5rem; }
+  .steps { margin-top: 2rem; }
   .consultation-img { display: none; }
   .section-consultation__bg { background: -webkit-linear-gradient(144.68deg, rgba(219, 223, 243, 0.45) 0.03%, rgba(241, 249, 255, 0.03) 99.52%) !important; background: -o-linear-gradient(144.68deg, rgba(219, 223, 243, 0.45) 0.03%, rgba(241, 249, 255, 0.03) 99.52%) !important; background: linear-gradient(305.32deg, rgba(219, 223, 243, 0.45) 0.03%, rgba(241, 249, 255, 0.03) 99.52%) !important; }
   .consultation-form { max-width: 100%; }
